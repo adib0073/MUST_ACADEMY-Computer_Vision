@@ -39,8 +39,9 @@ Hour 4 – Exploring the world of deep learning
 2.	Multi-Class Classification using Images (20 mins)
 3.	Advanced computer vision deep learning concepts – Neural Style Transfer and GANs (10 mins)
 
-Challenge 4 - a - Brain haemorrhage segmentation from CT Scan Images using Mask RCNN
-b - Object tracking from video - Track the cricket ball from the given video
+Challenge 4 
+- a - Brain haemorrhage segmentation from CT Scan Images using Mask RCNN
+- b - Object tracking from video - Track the cricket ball from the given video
 
 End Note and Q&A – 15 mins
 
