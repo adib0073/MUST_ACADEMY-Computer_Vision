@@ -39,7 +39,8 @@ Hour 4 – Exploring the world of deep learning
 2.	Multi-Class Classification using Images (20 mins)
 3.	Advanced computer vision deep learning concepts – Neural Style Transfer and GANs (10 mins)
 
-Challenge 4 - Brain haemorrhage segmentation from CT Scan Images using Mask RCNN
+Challenge 4 - a - Brain haemorrhage segmentation from CT Scan Images using Mask RCNN
+b - Object tracking from video - Track the cricket ball from the given video
 
 End Note and Q&A – 15 mins
 
@@ -51,5 +52,5 @@ Follow me @: https://aditya-bhattacharya.net/
 
 Reference and Learning Resources:
 1. https://opencv.org/
-2. https://classroom.udacity.com/courses/ud810
+2. [Udacity](https://www.udacity.com/course/computer-vision-nanodegree--nd891?irclickid=UEGXtl2LtxyLT3OwUx0Mo3QUUkEzdV1YZQ6kzA0&irgwc=1&utm_source=affiliate&utm_medium=&aff=2422388&utm_term=&utm_campaign=__&utm_content=&adid=788805)
 3. https://www.deeplearning.ai/
